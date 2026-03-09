@@ -1,0 +1,5 @@
+[2026-03-06 06:41:01] Main.pwn - Status: SUCCESS - AMX Size: 64,22 MB - Time: 165,012s
+[2026-03-06 07:56:03] Main.pwn - Status: SUCCESS - AMX Size: 64,22 MB - Time: 159,049s
+[2026-03-06 08:08:42] Main.pwn - Status: SUCCESS - AMX Size: 64,22 MB - Time: 153,864s
+[2026-03-07 02:21:22] Main.pwn - Status: FAILED - AMX Size: N/A - Time: 138,581s
+[2026-03-07 02:36:42] Main.pwn - Status: SUCCESS - AMX Size: 64,22 MB - Time: 147,433s

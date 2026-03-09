@@ -1,0 +1,5 @@
+#include "SERVER/vehiclemod/header"
+#include "SERVER/vehiclemod/function"
+#include "SERVER/vehiclemod/callbacks"
+#include "SERVER/vehiclemod/cmd"
+#include "SERVER/vehiclemod/dialog"

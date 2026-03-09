@@ -1,0 +1,39 @@
+{
+    // ==========================================
+    // VSCORD EXPERT CONFIGURATION (GLOBAL)
+    // ==========================================
+    "vscord.app.name": "Custom", 
+    "vscord.app.id": "1477383594958786785", 
+    "vscord.status.state.text.editing": "Architecting: {fileName}",
+    "vscord.status.details.text.editing": "Workspace: {workspace} | 🌿 {gitBranch}",
+    "vscord.status.state.text.debugging": "🐛 Hunting Bugs in {fileName}",
+    "vscord.status.state.text.viewing": "Reviewing Code: {fileName}",
+    "vscord.status.image.large.key": "https://discord.com/developers/applications/1477383594958786785/rich-presence/assets/logo", 
+    "vscord.status.image.large.text": "Developer SAMP & Web", 
+    "vscord.status.image.small.key": "{language}", 
+    "vscord.status.image.small.text": "Coding in {language}",
+    "vscord.behavior.idle.timeout": 300000,
+    "vscord.status.state.text.idle": "AFK - Conceptualizing 🧠",
+    "vscord.status.details.text.idle": "Away from Keyboard",
+    "vscord.status.buttons": [
+        {
+            "label": "💼 LinkedIn",
+            "url": "https://www.linkedin.com/in/jack-dogle-4981943b4"
+        },
+        {
+            "label": "🐙 GitHub",
+            "url": "https://github.com/jackdogle"
+        }
+    ],
+    "vscord.app.whitelistEnabled": false,
+    "vscord.app.privacyMode.enable": false,
+    "vscord.behaviour.debug": true,
+    "vscord.status.resetElapsedTimePerFile": true,
+    "vscord.status.state.text.notInFile": "Mencari Inspirasi Kode ☕",
+    "vscord.status.details.text.notInFile": "Idle / Exploring Workspace",
+    "git.enableSmartCommit": true,
+    "[pawn]": {
+        "editor.colorDecorators": true
+    },
+    "vscord.status.image.large.debugging.key": "https://discord.com/developers/applications/1477383594958786785/rich-presence/assets/logo"
+}
