@@ -240,7 +240,7 @@ Didistribusikan di bawah Lisensi **MIT**. Lihat file `LICENSE` untuk informasi l
 ```text
 MIT License
 
-Copyright (c) 2023-Present Jack Dogle (For Dogle)
+Copyright (c) 2026-Present Jack Dogle (For Dogle)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -253,3 +253,4 @@ in the Software without restriction...
   <sub>Dibuat dengan ❤️ oleh Komunitas SA-MP untuk Komunitas SA-MP.</sub><br>
   <sub>Jika Anda menyukai project ini, jangan lupa berikan ⭐ Star di GitHub!</sub>
 </div>
+
